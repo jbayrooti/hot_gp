@@ -1,0 +1,3 @@
+[submodule "mbrl-lib"]
+	path = mbrl-lib
+	url = https://github.com/jbayrooti/mbrl-lib.git
